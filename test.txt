@@ -4,7 +4,7 @@ cse
 aiml
 ONE LINE IN TEST BRANCH
 new corse
-AUB
+amity
 BTECH
 CSE
 AIML
