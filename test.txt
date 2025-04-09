@@ -3,3 +3,9 @@ bcom bba
 cse
 aiml
 ONE LINE IN TEST BRANCH
+new corse
+amity
+BTECH
+CSE
+AIML
+ECE
